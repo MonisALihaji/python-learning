@@ -7,7 +7,7 @@ A collection of hands-on Python projects and programming exercises documenting m
 | Project | Status |
 |---|---|
 | Password Generator | Completed |
-| Number Guessing Game | Upcoming |
+| Python CLI calculator | Upcoming |
 
 ## Concepts Covered
 
