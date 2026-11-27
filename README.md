@@ -8,6 +8,7 @@ A collection of hands-on Python projects and programming exercises documenting m
 |---|---|
 | Password Generator | Completed |
 | Python CLI calculator | Completed |
+| Encryption-decryption program | Completed |
 | Number guessing game  | Pending |
 
 ## Concepts Covered
