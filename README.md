@@ -7,7 +7,7 @@ A collection of hands-on Python projects and programming exercises documenting m
 | Project | Status |
 |---|---|
 | Password Generator | Completed |
-| Python CLI calculator | Upcoming |
+| Python CLI calculator | completed |
 
 ## Concepts Covered
 
