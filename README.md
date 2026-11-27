@@ -9,7 +9,7 @@ A collection of hands-on Python projects and programming exercises documenting m
 | Password Generator | Completed |
 | Python CLI calculator | Completed |
 | Encryption-decryption program | Completed |
-| Number guessing game  | Pending |
+| Number guessing game  | Completed |
 
 ## Concepts Covered
 
@@ -18,6 +18,7 @@ A collection of hands-on Python projects and programming exercises documenting m
 - Lists, tuples, sets and dictionaries
 - Conditional statements
 - For and while loops
+- Functions
 - Random number generation
 - Secure password generation
 
